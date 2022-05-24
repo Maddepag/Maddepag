@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Maddepag
-- 👀 I’m interested in neural networks
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning React js
 
 <!---
 Maddepag/Maddepag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
